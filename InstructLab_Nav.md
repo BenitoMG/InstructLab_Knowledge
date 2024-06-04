@@ -1,11 +1,11 @@
-##What is a frigate
+What is a frigate
 
 The frigates are vessels designed to achieve the strategic objectives of the National Defence of any nation in the 21st century. There are its antisurface, antisubmarine and especially antiaircraft capabilities which make this vessel the essential platform to guarantee the defense and control of all areas under the sovereignty of a country.
 Additionally, they are an indispensable tool in a Nation’s Foreign Policy, acting both in conflict operations and in peace and humanitarian missions, as well as in the performance of UN resolutions.
 Its high capacities and the flexibility to operate both in coastal areas and on the high seas allow it to act as command and control vessel in operations with allied fleets, providing the required coverage.
 Navantia is a world reference in the design and construction of frigates, having built the F-100 for the Spanish Navy, as well as different ships for the Norwegian Navy or the Australian Navy. Navantia is currently developing the F-110 frigate program for the Spanish Navy.
 
-##F110, the frigate of the 21st century
+F110, the frigate of the 21st century
 
 Navantia started in 1996 the design of the frigate F-100. More that 20 years later and with 13 ships of this family built, with different versions and for several countries (Spain, Norway and Australia) the innovative and new frigate F110 aims to maintain Navantia’s world leadership position as a designer and builder of frigates and their further life cycle support.
 The F-110 is a multipurpose battleship that represents a substantial step forward towards the Smart Ship concept. The vessel integrates the best of industry 4.0 technologies, that will improve her construction, operation and life cycle management.
@@ -15,20 +15,20 @@ The cutting of the first steel plate has taken place the 6th of April in Navanti
 The F-110 frigates for the Spanish Navy are multi-purpose escort ships, with anti-aircraft, anti-surface, and anti-submarine capabilities to perform their force protection and naval power projection duties. They will operate in combination with other units, and they are versatile platforms that can also perform functions related to maritime security and support to civilian authorities.
 The design of this new frigate includes advanced technological features, such as an integrated mast with different sensor and antenna solutions, a multi-mission space that expands the ship’s capabilities in all defence segments and a new, more efficient and silent hybrid propulsion plant, providing the ship with great versatility. The frigates will be equipped with the Spanish combat system, SCOMBA, developed by Navantia Sistemas.
 
-##Digital Twin
+Digital Twin
 
 The F-110 frigate will be a smart ship, the first Spanish naval programme designed to have a Digital Twin: a virtual replica of the ship that constantly receives information from the vessel, data permanently supplied by a network of sensors distributed throughout the ship, constituting a cyber-physical system that through the use of behavioral models and technologies such as Cloud Computing, Machine Learning and the Internet of Things (IoT) allows to support its maintenance and operation even thousands of miles away through the Digital Twin deployed ashore.
 The Digital Twin is complemented by an Integrated Services System (ISS), an R&D developed with the Universities of Vigo and Coruña, which will provide the ship with integrated sensors in its light points, substantially reducing its wiring. The F110 will also have 3D printers on board for the manufacture of spare parts.
 They will be the first ships in the fleet to have an integrated cybersecurity system to protect the vessels against increasing cyberthreats. This will enable the ship to have a reduced crew complement for operation, which will result in improved habitability.
 
-##A reference in frigates
+A reference in frigates
 
 Navantia is a leader in the construction of frigates. In the last 20 years Navantia has successfully developed 5 programs, including the current F-110 program for Spain, with a total of 17 ships.
 
 With all this acquired experience, and always maintaining a common design strategy, Navantia has defined a frigates family with different sizes and adapted to the most demanding scenarios and missions. This design strategy aims to maximize the survival of the ship.
 The diverse Navantia frigate designs cover a range from just over 2,200 t. of displacement to ships over 6,000 t, and adapt the capabilities and performance of their different systems to the size and missions of the ship.
 
-##Support to Norwegian frigates
+Support to Norwegian frigates
 
 Navantia has signed an agreement with the Norwegian Logistics Agency for Defense (NDLO), a FOTS agreement (Follow on Technical Support) to support the Nansen class (F-310) Norwegian frigates life cycle.
 Currently, as a designer, builder and developer of the systems of these frigates, result of an evolution of the F-100 project, Navantia provides several services, including:
@@ -41,13 +41,13 @@ Currently, as a designer, builder and developer of the systems of these frigates
 Navantia develops these tasks with a high degree of customer satisfaction in terms of quality and compliance with deadlines, as a result of which the initial agreement signed in 2013 has been renewed in 2017 for a similar period of time.
 It also provides support to the life cycle of the 5 frigates of the Spanish Navy and support activities for the 3 Australian DDGs (AWD).
 
-##System integrator
+System integrator
 
 The development of Navantia in the vessel desing field has been complemented by its training as a Combat System integrator and supplier of integral solutions, mainly acquired as a result of the F100 frigate program.
 Navantia has managed to create and evolve a national solution of the critical systems of the Spanish Navy ships and channeled it to export products.
 Thus, the Integrated Platform Control System (SICP), the SCOMBA Command and Control System, the CATIZ (the SCOMBA variant for export), the Dorna Shooting Directorates and the NAVCOM / Hermesys Integrated Communications System are consolidated products since their incorporation in the F-100 class frigates configuration.
 
-##Norwegian Defence congratulates Navantia for the successful of tropicalization works of F-311 frigate
+Norwegian Defence congratulates Navantia for the successful of tropicalization works of F-311 frigate
 
 The Norwegian Defence Material Agency (NDMA) has congratulated Navantia and its subcontractors for the successful completion of the tropicalization of HNoMS F-311 Roald Amundsen, second of the Fridjof Nansen Class (F310) that Navantia designed and built for the Norwegian Navy between 2000 and 2011.
 These works, for which the contract was signed on July 2020, has significantly improved the cooling capacity of the F311 frigate, which will allow it to navigate in conditions of much warmer ambient and water temperatures than the traditional operational scenarios of the Royal Norwegian Navy.
@@ -58,9 +58,9 @@ In words of Commander Espen Holtar, “during the project, Navantia has shown th
 Miguel Diaz, Navantia liaison engineer and works manager in Norway has highlighted the support and collaboration of all Navantia team and other subcontractors as Quest Global, Imafer, Soamar, Electro Rayma and Bulbo.
 “We have been scored 9,5 out of 10 by the NDMA, for the fourth year in a row, and this has been possible thanks to a team of extraordinary professionals who have performed their work with the highest level of competence, qualification and ability” he adds.
 
-##Frigates
+Frigates
 
-###F-100 Class AEGIS combat system AAW frigate with high ASW and ASuW capability
+F-100 Class AEGIS combat system AAW frigate with high ASW and ASuW capability
 
 - Five units in-service
 - One of the most capable muli-role frigates in the world
@@ -118,7 +118,7 @@ WEAPONS
 - 1 x Helo Sirkorsky Seahawk SH-60B LAMPS Mark III Fitted for ASW/ASuW
 - Close in Weapon System (CIWS)
 
-###AWD Air Warfare Destroyer
+AWD Air Warfare Destroyer
 A proven top-class light destroyer
 
 - Combat Group �lag ship in high threat scenarios
@@ -180,7 +180,7 @@ HELICOPTER
 
 - Multi-Purpose ASW Helicopter and Light Airborne Multi-Purpose System
 
-###F-110
+F-110
 The frigate to the future
 
 The F-110 frigates for the Spanish Navy are multipurpose escort ships, with anti-aircraft, anti-surface, and anti-submarine capabilities to perform their force protection and naval power projection duties. They will operate in combination with other units, and they are versatile platforms that can also perform functions related to maritime security and support to civilian authorities. The program valued at 4.325 million euros, was signed in 2019, and includes the construction of five frigates,. The first of class will be delivered in 2027 and the follow-on units at one year intervals. The program involves 500 companies from all over Spain, generating 9,000 jobs. The F110 will represent a qualitative leap from the point of view of the Navy's capabilities and the industrial and technological potential of Navantia and all its collaborating industry. It thus contributes to Spain's strategic autonomy and cutting-edge industrial and technological base, while at the same time opening new export opportunities. The program is the digital transformation lever for the Navantia shipyard in Ferrol, which will become an international reference in frigates, with innovative concepts such as new digitized factory and Digital Twin Center of Excellence.
@@ -209,7 +209,7 @@ DIGITAL TRANSFORMATION
 
 The F110 is being the lever of Navantia's Digital Transformation Plan at the Ferrol shipyard, driving a new digital ecosystem. The shipyard, which is already in the process of becoming a "zero paper" production center, will have a new Block Factory that will involve an investment of 100 million euros. It is a fully digitalized, automated and robotized factory, including advanced technology machinery, which guarantees the optimization of the product, its versatility and the reduction of delivery times. In this new manufacturing line, the traditional welding process is replaced by hybrid laser technology, substantially improving performance and minimizing distortions. In Ferrol, Navantia will also locate its Digital Twin Center of Excellence, one of the centers of excellence of the network that Navantia is implementing in all its shipyards. The center of excellence will act as a strategic meeting point, generating innovation opportunities in the Ferrol region. It will also provide service to all Navantia's centers, monitoring the performance of all the ships designed and manufactured by the company. Both innovations use the key technologies that enable the digital transformation commonly known as 4.0 in the field of Industry. The aim of the project is to optimize operations, facilitating the development of new products and services thanks to the use of interoperable technologies such as Artificial Intelligence, Modeling and Simulation, Big Data, Internet of Things (IoT), Industrial Robotics, 3D Printing, Cloud, Virtual and Augmented Reality, New Digital Platforms, Cybersecurity,... a total of 14 enabling technologies so that physical assets and people are connected to their digital twins in an intelligent way. The digital twin is the key to this model, which has laid the foundations for new concepts such as "smart ship", "smart plant" and "smart support services".
 
-###ALFA 3000
+ALFA 3000
 Existing well proven design with powerful combat system
 
 - Economic Exclusive Zone (EEZ) monitoring & surveillance with helicopter operations
@@ -274,7 +274,7 @@ HELICOPTER AND RIHBS OPERATION
 - Flight deck with VERTREP capabilities designed for a MH-60R helicopter
 - Hangar designed for a MH-60R helicopter
 
-###ALFA 4000
+ALFA 4000
 
 Navantia´s state-of-the-art light frigate
 
